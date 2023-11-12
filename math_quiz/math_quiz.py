@@ -4,6 +4,8 @@ import random
 def function_A(min, max):
     """
     Random integer.
+    
+    Results
     """
     return random.randint(min, max)
 
